@@ -30,10 +30,12 @@ Preliminary challenge score: 25.60.
 
 ## Layout
 
-training/ train_finetune.py, model_factory.py, dataset.py, utils.py
-inference/ model.py (challenge submission interface, Model.predict)
-preprocessing/ detect_splitscreen.py, apply_crop.py
+```
+training/       train_finetune.py, model_factory.py, dataset.py, utils.py
+inference/      model.py   (challenge submission interface, Model.predict)
+preprocessing/  detect_splitscreen.py, apply_crop.py
 requirements.txt
+```
 
 
 ## Requirements
